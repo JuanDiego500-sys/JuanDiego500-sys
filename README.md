@@ -26,7 +26,7 @@ From April to October 2026 I was an **AI & Automation Engineer intern at Mercede
 **AI:** AI agents · LLM-assisted development (Claude Code)
 
 ### 🌍 Languages
-🇪🇸 Spanish: native · 🇬🇧 English: C1 (certified) · 🇩🇪 German: C1 (certified)
+🇪🇸 Spanish: native · 🇬🇧 English: advanced (C1) · 🇩🇪 German: C1 (TestDaF)
 
 ### 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/juandiegogiraldo-softwaredevelopment)
